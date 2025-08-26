@@ -1,12 +1,26 @@
 {
+<<<<<<< HEAD
   "name": "atividade2",
   "version": "1.0.0",
   "description": "",
   "main": "times.js",
+=======
+  "name": "atividade1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "formulário.js",
+>>>>>>> 7795b8e8261984f9fc13b21882ef1f693dedd850
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC"
+=======
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+>>>>>>> 7795b8e8261984f9fc13b21882ef1f693dedd850
 }
